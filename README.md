@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @namiyer
 - 👀 I’m interested in Database manipulation
 - 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: email - namiyer35@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can speak three languages :)
